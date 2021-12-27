@@ -1,0 +1,220 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU
+vadder_1bit
+Z1 !s110 1637737843
+!i10b 1
+!s100 ^N@<i6TgW:E1;He[nJDi?0
+IA>olf;SdknzlkL7=?:D[I2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1637131710
+Z4 8C:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU/basic_modules.v
+Z5 FC:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU/basic_modules.v
+L0 289
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1637737843.000000
+Z8 !s107 C:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU/basic_modules.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU/basic_modules.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vadder_32bit
+R1
+!i10b 1
+!s100 z5BT[Sf5YBk84zY@3PeeC2
+IIQez]gPlVl^UCXO6f:0M=0
+R2
+R0
+R3
+R4
+R5
+L0 241
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+valu
+R1
+!i10b 1
+!s100 ?IHJA`XDU19?S=n2N;GTh2
+IMEjH5n2d`PJdjkJQGcZNk2
+R2
+R0
+R3
+R4
+R5
+L0 198
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+valudec
+R1
+!i10b 1
+!s100 MLG1:jg3`^EP7Alfn6YmT0
+IejCA74dXgKT;hYWlfCF773
+R2
+R0
+Z12 w1637737819
+Z13 8C:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU/rv32i_cpu.v
+Z14 FC:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU/rv32i_cpu.v
+L0 195
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU/rv32i_cpu.v|
+Z16 !s90 -reportprogress|30|-work|work|C:/Users/Heun/Desktop/copy/RV32I_System/RV32I_CPU/rv32i_cpu.v|
+!i113 1
+R10
+R11
+vcontroller
+R1
+!i10b 1
+!s100 c1l[Q6@L`l_VG8UeG?HEL1
+IPKdYh5TQG4>WVOahY6ak;3
+R2
+R0
+R12
+R13
+R14
+L0 93
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vdatapath
+R1
+!i10b 1
+!s100 NF5c]gW_[9<FK7<6IliTT3
+I[8iD?dSWAJKXF[CE;9`Y:2
+R2
+R0
+R12
+R13
+R14
+L0 258
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vmaindec
+R1
+!i10b 1
+!s100 QN8Gh<UIEb6OQ>mS7_9KP0
+IgJOE`O=aQ3k7J;X[a`d`e1
+R2
+R0
+R12
+R13
+R14
+L0 152
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vmux2
+R1
+!i10b 1
+!s100 CU0j[9Q_?P[e`IIT?mcPz0
+IiXL?H8hN34[]43WmIY5153
+R2
+R0
+R3
+R4
+R5
+L0 299
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vregfile
+R1
+!i10b 1
+!s100 i=R;fVjgRgRCG8RmiaRZ]1
+IC[<Vd@>VkLJ::NXVlfi<22
+R2
+R0
+R3
+R4
+R5
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vrv32i_cpu
+R1
+!i10b 1
+!s100 =h3^XiB?YFAE8dWkzEILR2
+IPfQnPHLHd:RikDn7F>na[0
+R2
+R0
+R12
+R13
+R14
+L0 12
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11

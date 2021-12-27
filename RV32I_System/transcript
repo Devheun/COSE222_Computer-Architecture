@@ -1,0 +1,150 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+vlib work
+vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:15:28 on Nov 21,2021
+# vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v 
+# -- Compiling module RV32I_System_tb
+# 
+# Top level modules:
+# 	RV32I_System_tb
+# End time: 07:15:28 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.RV32I_System_tb
+# vsim work.RV32I_System_tb 
+# Start time: 07:15:36 on Nov 21,2021
+# Loading work.RV32I_System_tb
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v(23): Instantiation of 'RV32I_System' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System_tb File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# Error loading design
+# End time: 07:15:36 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:15:57 on Nov 21,2021
+# vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v 
+# -- Compiling module RV32I_System
+# 
+# Top level modules:
+# 	RV32I_System
+# End time: 07:15:57 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:15:59 on Nov 21,2021
+# vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v 
+# -- Compiling module RV32I_System_tb
+# 
+# Top level modules:
+# 	RV32I_System_tb
+# End time: 07:15:59 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.RV32I_System_tb
+# vsim work.RV32I_System_tb 
+# Start time: 07:16:05 on Nov 21,2021
+# Loading work.RV32I_System_tb
+# Loading work.RV32I_System
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(68): Instantiation of 'ALTPLL_clkgen' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System_tb/iRV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(84): Instantiation of 'rv32i_cpu' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System_tb/iRV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(98): Instantiation of 'ram2port_inst_data' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System_tb/iRV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(114): Instantiation of 'Addr_Decoder' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System_tb/iRV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(122): Instantiation of 'TimerCounter' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System_tb/iRV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(134): Instantiation of 'GPIO' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System_tb/iRV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# Error loading design
+# End time: 07:16:05 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+vsim work.RV32I_System
+# vsim work.RV32I_System 
+# Start time: 07:16:07 on Nov 21,2021
+# Loading work.RV32I_System
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(68): Instantiation of 'ALTPLL_clkgen' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(84): Instantiation of 'rv32i_cpu' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(98): Instantiation of 'ram2port_inst_data' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(114): Instantiation of 'Addr_Decoder' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(122): Instantiation of 'TimerCounter' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# ** Error: (vsim-3033) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v(134): Instantiation of 'GPIO' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /RV32I_System File: C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+#         Searched libraries:
+#             C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/work
+# Error loading design
+# End time: 07:16:07 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:17:11 on Nov 21,2021
+# vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v 
+# -- Compiling module RV32I_System_tb
+# 
+# Top level modules:
+# 	RV32I_System_tb
+# End time: 07:17:11 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:17:58 on Nov 21,2021
+# vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data.v 
+# -- Compiling module ram2port_inst_data
+# 
+# Top level modules:
+# 	ram2port_inst_data
+# End time: 07:17:58 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_bb.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:17:59 on Nov 21,2021
+# vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_bb.v 
+# -- Compiling module ram2port_inst_data
+# 
+# Top level modules:
+# 	ram2port_inst_data
+# End time: 07:17:59 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_inst.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:18:00 on Nov 21,2021
+# vlog -reportprogress 300 -work work C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_inst.v 
+# ** Error: (vlog-13069) C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_inst.v(1): near ".": syntax error, unexpected '.', expecting class.
+# End time: 07:18:00 on Nov 21,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vsim work.ram2port_inst_data
+# vsim work.ram2port_inst_data 
+# Start time: 07:18:11 on Nov 21,2021
+# Loading work.ram2port_inst_data
+# End time: 07:18:20 on Nov 21,2021, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 0

@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System
+vram2port_inst_data
+!s110 1637446679
+!i10b 1
+!s100 V>Gz85NOi4QMd6j@LbcHk2
+IGeN?HID<z<2_JNBNz=N:I1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1410149884
+8C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_bb.v
+FC:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_bb.v
+L0 34
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1637446679.000000
+!s107 C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_bb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/Altera_Mem_Dual_Port/ram2port_inst_data_bb.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vRV32I_System
+!s110 1637446557
+!i10b 1
+!s100 mfFozh;5gGnz^G=L3U0QE1
+IZC^5MZWUD@N?2D^TgG9hR0
+R1
+R0
+w1594611004
+8C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+FC:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v
+L0 27
+R2
+r1
+!s85 0
+31
+!s108 1637446557.000000
+!s107 C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System.v|
+!i113 1
+R3
+R4
+n@r@v32@i_@system
+vRV32I_System_tb
+!s110 1637446631
+!i10b 1
+!s100 Iilk73KE_=JUJVLMf6R[Y2
+I5M5Z[_HdOKHYzT2a?JWcU3
+R1
+R0
+w1592143006
+8C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v
+FC:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v
+L0 12
+R2
+r1
+!s85 0
+31
+!s108 1637446631.000000
+!s107 C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Heun/Desktop/cose222/RV32I_Class_Project/RV32I_System/RV32I_System_tb.v|
+!i113 1
+R3
+R4
+n@r@v32@i_@system_tb
